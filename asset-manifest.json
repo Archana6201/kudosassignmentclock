@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kudosassignmentclock/static/css/main.86f78161.chunk.css",
+    "main.css": "/kudosassignmentclock/static/css/main.48e3b146.chunk.css",
     "main.js": "/kudosassignmentclock/static/js/main.a43c8ede.chunk.js",
     "main.js.map": "/kudosassignmentclock/static/js/main.a43c8ede.chunk.js.map",
     "runtime-main.js": "/kudosassignmentclock/static/js/runtime-main.e4b6ba63.js",
@@ -8,13 +8,13 @@
     "static/js/2.4f00df31.chunk.js": "/kudosassignmentclock/static/js/2.4f00df31.chunk.js",
     "static/js/2.4f00df31.chunk.js.map": "/kudosassignmentclock/static/js/2.4f00df31.chunk.js.map",
     "index.html": "/kudosassignmentclock/index.html",
-    "static/css/main.86f78161.chunk.css.map": "/kudosassignmentclock/static/css/main.86f78161.chunk.css.map",
+    "static/css/main.48e3b146.chunk.css.map": "/kudosassignmentclock/static/css/main.48e3b146.chunk.css.map",
     "static/js/2.4f00df31.chunk.js.LICENSE.txt": "/kudosassignmentclock/static/js/2.4f00df31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e4b6ba63.js",
     "static/js/2.4f00df31.chunk.js",
-    "static/css/main.86f78161.chunk.css",
+    "static/css/main.48e3b146.chunk.css",
     "static/js/main.a43c8ede.chunk.js"
   ]
 }
